@@ -6,3 +6,7 @@
 * p {
 		color : red;
 }
+.bottomImageLink, .bottomImage {
+	position: absolute;
+	bottom: 0;
+}

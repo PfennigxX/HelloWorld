@@ -1,3 +1,15 @@
+* body {
+		font-family : Arial, Verdana;
+		color : #000000;
+		background-color : #ffffff;
+}
+
 * p {
-		color : red;
+		color : #ff0000;
+}
+
+zum_testen {
+		font-family : Arial, Verdana;
+		color : #ffffff;
+		background-color : #323232;
 }

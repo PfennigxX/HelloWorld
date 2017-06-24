@@ -1,9 +1,19 @@
 * body {
-		background-image:url(https://scontent-ams3-1.xx.fbcdn.net/v/t1.0-9/11825860_852501301504234_1062218715584664684_n.jpg?oh=bd3b7dcba4d0ad8cc2b921b0f9a7ea1b&oe=59C4B088);
-		}
+
+	}
 		
 * p {
 		color : red;
+    }
+.top 
+{
+	position :solid;
+	top:0;
+	left:0;
+	width: 1800px;
+	height:200px;
+	background-color: lightgray;
+	
 }
 .youtube
 {
@@ -26,8 +36,6 @@ position : fixed;
 bottom: 7px;
 right: 173px;
 }
-
-
 .groesse
 {
 width :50px;

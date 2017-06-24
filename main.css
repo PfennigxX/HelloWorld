@@ -5,14 +5,24 @@
 * p {
 		color : red;
     }
+	.cover
+	{ 
+		
+		position:absolute;
+		width: 80%;
+		height: 350px;
+		right:10%;
+		top:5%
+
+	}
 .top 
 {
-	position :solid;
+	position :absolute;
 	top:0;
 	left:0;
 	width: 100%;
 	height:400px;
-	background-color: lightgray;
+	background-color: #21D4DE;
 	
 }
 .youtube
